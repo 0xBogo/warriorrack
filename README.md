@@ -33,7 +33,7 @@ Email: rangerockdev@gmail.com</br>
 Skype: live:.cid.53201f5e5de3299c</br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" />
@@ -45,6 +45,8 @@ Skype: live:.cid.53201f5e5de3299c</br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
       alt="angularjs" width="40" height="40" />
   </a>
+
+
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -174,4 +176,4 @@ Skype: live:.cid.53201f5e5de3299c</br>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>
-</p>
+</p> -->

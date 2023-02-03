@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Web3 Engineer with 6 years of experience.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Web3 Engineer.</h1>
 
 <p align="center">
   <a href="#">
